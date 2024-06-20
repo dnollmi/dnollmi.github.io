@@ -10,4 +10,7 @@ redirect_from:
 
 [Curriculum Vitae (CV)](https://dnollmi.github.io/files/noll_cv_23.pdf)
 
-I am a Professor of BME and Radiology and work primarily in magnetic resonance imaging.
+Ann and Robert H. Lurie Professor of Biomedical Engineering 
+Professor of Radiology 
+Co-Director, Functional MRI Laboratory
+Co-Lead of NeuroImaging Core, Michigan Alzheimer’s Disease Research Center
