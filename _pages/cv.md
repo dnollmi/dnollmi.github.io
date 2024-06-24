@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae [CV](https://dnollmi.github.io/files/noll_cv_23.pdf)
+Curriculum Vitae [CV](https://dnollmi.github.io/files/noll_cv_24.pdf)
